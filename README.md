@@ -1,0 +1,2 @@
+# YouTube Video Summary tool
+A web-based YouTube Video Summary tool that uses NLP and machine learning techniques to analyze video transcripts and generate short, informative summaries for efficient content consumption.
