@@ -19,8 +19,8 @@ result = model.transcribe("audio.mp3")
 
 transcript = result["text"]
 
-print("\n===== FULL TRANSCRIPT =====\n")
-print(transcript)
+# print("\n===== FULL TRANSCRIPT =====\n")
+# print(transcript)
 
 # Load Summarization model (Text → Summary)
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
