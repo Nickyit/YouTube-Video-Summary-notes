@@ -9,7 +9,7 @@ A web-based YouTube Video Summary tool that uses NLP and machine learning techni
 
 In short:  
 Video → Audio Extraction → Speech to Text (Transcript) → Text Summarization → Final Output
-# YouTube Video Summary Tool
+## YouTube Video Summary Tool
 
 ## Overview
 This tool downloads the audio from a YouTube video, converts speech to text using OpenAI’s Whisper model, and produces an abstractive summary using a Transformer-based BART model. It is designed to help users quickly understand long video content.
